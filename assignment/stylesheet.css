@@ -1,3 +1,11 @@
 header {
   background-color: #8A2Be2;
 }
+.name {
+  background-color: #483D8B;
+  color: #FF8C00;
+}
+.car {
+  background-color: #7FFFD4;
+  color: #191970
+}
